@@ -128,7 +128,14 @@ src/
 * **Tip Details** – Expanded view with steps & benefits
 * **Loading States** – Beautiful animations
 
-*(Screenshots to be added)*
+![WhatsApp Image 2025-10-04 at 23 37 53_79e0995e](https://github.com/user-attachments/assets/735c02d6-ac9a-494d-ab82-eb9f174e465e)
+![WhatsApp Image 2025-10-04 at 23 37 54_cf3fb7f5](https://github.com/user-attachments/assets/5bb099f7-0cf8-4df5-a785-61642e5099a2)
+![WhatsApp Image 2025-10-04 at 23 37 54_81006bc2](https://github.com/user-attachments/assets/1b9d3ee4-9baf-4d4c-a544-01ceb11df775)
+![WhatsApp Image 2025-10-04 at 23 37 54_c600a5d2](https://github.com/user-attachments/assets/e4b2aa0d-8ae5-437a-a056-090389061913)
+
+
+
+
 
 ---
 
